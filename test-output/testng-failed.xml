@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_00_Task.Lab_5August.RestfulBooker_Get_Post_Requests_UsingTestNG">
+      <class name="ex_04_RestAssured_HTTP_Methods.DELETE.APITesting013_DELETE_NONBddStyle">
         <methods>
-          <include name="post"/>
+          <include name="test_delete_non_bdd"/>
         </methods>
-      </class> <!-- ex_00_Task.Lab_5August.RestfulBooker_Get_Post_Requests_UsingTestNG -->
+      </class> <!-- ex_04_RestAssured_HTTP_Methods.DELETE.APITesting013_DELETE_NONBddStyle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
