@@ -11,7 +11,7 @@
 			<artifactId>rest-assured</artifactId>
 			<version>5.5.5</version>
 			<scope>test</scope>
-		</dependency>	
+		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
@@ -22,6 +22,16 @@
 			<groupId>io.qameta.allure</groupId>
 			<artifactId>allure-testng</artifactId>
 			<version>2.29.1</version>
+		</dependency>
+		<!--		<dependency>-->
+		<!--			<groupId>com.Edureka</groupId>-->
+		<!--			<artifactId>APIAugust30th</artifactId>-->
+		<!--			<version>0.0.1-SNAPSHOT</version>-->
+		<!--		</dependency>-->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.17.2</version>
 		</dependency>
 	</dependencies>
 </project>

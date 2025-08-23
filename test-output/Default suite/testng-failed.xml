@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_03_TestNG_AllureReoprt.APITesting_Lab06_TestCase">
+      <class name="ex_00_Task.Lab_5August.RestfulBooker_Get_Post_Requests_UsingTestNG">
         <methods>
-          <include name="test_tc2_pincode_invalid"/>
-          <include name="test_tc3_pincode_invalid"/>
+          <include name="post"/>
         </methods>
-      </class> <!-- ex_03_TestNG_AllureReoprt.APITesting_Lab06_TestCase -->
+      </class> <!-- ex_00_Task.Lab_5August.RestfulBooker_Get_Post_Requests_UsingTestNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
