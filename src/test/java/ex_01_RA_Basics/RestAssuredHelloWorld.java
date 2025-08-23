@@ -1,4 +1,4 @@
-package sample;
+package ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
 
