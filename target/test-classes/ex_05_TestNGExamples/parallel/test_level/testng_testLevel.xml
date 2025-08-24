@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+	<test name="API">
+		<classes>
+			<class name="ex_05_TestNGExamples.parallel.test_level.APISmoke" />
+		</classes>
+	</test> <!--
+	Test -->
+
+	<test name="UI">
+		<classes>
+			<class name="ex_05_TestNGExamples.parallel.test_level.UISmoke" />
+		</classes>
+	</test> <!--
+	Test -->
+
+	<test name="DB">
+		<classes>
+			<class name="ex_05_TestNGExamples.parallel.test_level.DBSmoke" />
+		</classes>
+	</test> <!--
+	Test -->
+
+</suite> <!--
+Suite -->

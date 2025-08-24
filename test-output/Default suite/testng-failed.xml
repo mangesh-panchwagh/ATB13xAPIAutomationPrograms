@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_04_RestAssured_HTTP_Methods.DELETE.APITesting013_DELETE_NONBddStyle">
+      <class name="ex_05_TestNGExamples.APITesting017_TestNG_Groups">
         <methods>
-          <include name="test_delete_non_bdd"/>
+          <include name="test_smokeRun"/>
+          <include name="test_regRun"/>
         </methods>
-      </class> <!-- ex_04_RestAssured_HTTP_Methods.DELETE.APITesting013_DELETE_NONBddStyle -->
+      </class> <!-- ex_05_TestNGExamples.APITesting017_TestNG_Groups -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
