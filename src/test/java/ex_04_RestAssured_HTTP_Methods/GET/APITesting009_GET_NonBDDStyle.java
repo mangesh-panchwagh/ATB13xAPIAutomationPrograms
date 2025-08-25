@@ -16,7 +16,7 @@ public class APITesting009_GET_NonBDDStyle {
 	@Test
 	public void test_GET_NonBDD() {
 		
-		pincode = "560048";
+		pincode = "110001";
 		r = RestAssured.given();
 		r.baseUri("https://api.zippopotam.us");
 		r.basePath("/IN/" + pincode);

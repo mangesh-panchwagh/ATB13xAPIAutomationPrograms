@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_05_TestNGExamples.APITesting017_TestNG_Groups">
+      <class name="ex_00_Task.Lab_8August.Restful_Booker_Common_HTTP_Methods_E2E_1">
         <methods>
-          <include name="test_smokeRun"/>
-          <include name="test_regRun"/>
+          <include name="deleteBookingById"/>
         </methods>
-      </class> <!-- ex_05_TestNGExamples.APITesting017_TestNG_Groups -->
+      </class> <!-- ex_00_Task.Lab_8August.Restful_Booker_Common_HTTP_Methods_E2E_1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
