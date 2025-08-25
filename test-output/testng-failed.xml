@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_00_Task.Lab_8August.Restful_Booker_Common_HTTP_Methods_E2E_1">
+      <class name="ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions">
         <methods>
-          <include name="deleteBookingById"/>
+          <include name="test_POST"/>
         </methods>
-      </class> <!-- ex_00_Task.Lab_8August.Restful_Booker_Common_HTTP_Methods_E2E_1 -->
+      </class> <!-- ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
