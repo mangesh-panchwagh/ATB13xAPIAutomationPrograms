@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions">
+      <class name="ex_07_Payload_management.Map.APITesting028_RestAssured_Payload_Map">
         <methods>
           <include name="test_POST"/>
         </methods>
-      </class> <!-- ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions -->
+      </class> <!-- ex_07_Payload_management.Map.APITesting028_RestAssured_Payload_Map -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

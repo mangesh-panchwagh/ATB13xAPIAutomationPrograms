@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-26T00:25:37 IST" name="Default suite" finished-at="2025-08-26T00:25:42 IST" duration-ms="5002">
+  <suite started-at="2025-08-27T11:11:32 IST" name="Default suite" finished-at="2025-08-27T11:11:37 IST" duration-ms="4616">
     <groups>
     </groups>
-    <test started-at="2025-08-26T00:25:37 IST" name="Default test" finished-at="2025-08-26T00:25:42 IST" duration-ms="5002">
-      <class name="ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions">
-        <test-method signature="test_POST()[pri:0, instance:ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions@a3d9978]" started-at="2025-08-26T00:25:37 IST" name="test_POST" finished-at="2025-08-26T00:25:42 IST" duration-ms="4856" status="PASS">
+    <test started-at="2025-08-27T11:11:32 IST" name="Default test" finished-at="2025-08-27T11:11:37 IST" duration-ms="4616">
+      <class name="ex_07_Payload_management.Map.APITesting028_RestAssured_Payload_Map">
+        <test-method signature="test_POST()[pri:0, instance:ex_07_Payload_management.Map.APITesting028_RestAssured_Payload_Map@7a1a14a4]" started-at="2025-08-27T11:11:32 IST" name="test_POST" finished-at="2025-08-27T11:11:37 IST" duration-ms="4497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_POST -->
-      </class> <!-- ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions -->
+      </class> <!-- ex_07_Payload_management.Map.APITesting028_RestAssured_Payload_Map -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

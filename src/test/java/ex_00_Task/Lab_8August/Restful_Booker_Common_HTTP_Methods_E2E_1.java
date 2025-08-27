@@ -8,6 +8,10 @@ import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 
+// - Create a List of the Test cases with different methods like GET, POST, DELETE, PUT PATCH for 
+// Restfulbooker and Use TestNG and Set Different Priority and also Generate Allure report.
+
+// :- Run the Test case  Parallel with Method Level, Class Level, Test Level.
 public class Restful_Booker_Common_HTTP_Methods_E2E_1 {
 
 	RequestSpecification r;
